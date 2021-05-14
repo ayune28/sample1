@@ -91,7 +91,7 @@ body {
 
 .main1{
   min-height: 350px;
-  background-image: url("../img/main.jpg");
+  background-image: url("https://github.com/ayune28/sample1/blob/main/main.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -234,7 +234,7 @@ h2::after{
 
 .sub1 {
   min-height: 450px;
-  background-image: url("../img/introbottom.jpg");
+  background-image:("https://github.com/ayune28/sample1/blob/main/introbottom.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -354,7 +354,7 @@ img.free{
 
 .step1{
   min-height: 280px;
-  background-image: url("../img/aboutsecondbg.jpg");
+  background-image: ("https://github.com/ayune28/sample1/blob/main/aboutsecondbgsp.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0;
@@ -573,7 +573,7 @@ font-size: 21px;
 /*創業メンバー*/
 .member1{
   min-height: 650px;
-  background-image: url("../img/teacherbg.jpg");
+  background-image: url("https://github.com/ayune28/sample1/blob/main/teacherbg.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -794,7 +794,7 @@ font-size: 21px;
 
 /*isaraで学べる*/
 .work{
-  background-image: url("../img/classbg.jpg");
+  background-image: url("https://github.com/ayune28/sample1/blob/main/classbg.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1055,7 +1055,7 @@ width: 500px;
 /*バンコク*/
 .why{
   min-height: 370px;
-  background-image: url("../img/bangkokbg.jpg");
+  background-image: url("https://github.com/ayune28/sample1/blob/main/bangkokbg.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1205,7 +1205,7 @@ width: 500px;
 /*イサラはボランティア*/
 .section1{
   min-height: 380px;
-  background-image: url("../img/specialdetail.jpg");
+  background-image: url("https://github.com/ayune28/sample1/blob/main/specialdetail.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1720,7 +1720,7 @@ h2::after{
 }
 
 .sub1 {
-  background-image: url("../img/introbottom.jpg");
+  background-image: url("https://github.com/ayune28/sample1/blob/main/introbottom.jpg?raw=true");
   background-repeat: no-repeat;
     background-size: contain;
     background-position:  center;
@@ -1788,7 +1788,7 @@ h2::after{
 
 .step1{
   min-height: 500px;
-  background-image: url("../img/aboutsecondbgsp.jpg");
+  background-image: url("https://github.com/ayune28/sample1/blob/main/aboutsecondbgsp.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0;
